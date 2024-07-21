@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  server:
+    build: .
+    container_name: demo-bootstrap-reactjs
+    image: brunojose1977/exercicio12-bootstrap-reactjs-docker:1.0
+    ports:
+      - 8080:3000
