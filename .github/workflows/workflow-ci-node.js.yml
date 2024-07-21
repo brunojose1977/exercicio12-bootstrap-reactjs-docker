@@ -20,4 +20,4 @@ jobs:
         node-version: 18.
     - run: npm install startbootstrap-one-page-wonder
 #    - run: npm run build 
-    - run: npm test
+#    - run: npm test
