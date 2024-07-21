@@ -14,3 +14,9 @@ Passo a passo
 OBS:
 O script 2-descompactar-configurar-rodar-conteiner.sh será executado automaticamente dentro do conteiner no momento da sua criação conforme definicao feita na imagem (definição no Dockerfile).
 
+## CI/CD
+- foi utilizado o Github action e foi configurado o arquivo workflow-ci-node.js.yml com o gatilho de pull-request, quando então são executados comandos NPM:
+
+- install
+- build
+- test
