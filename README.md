@@ -19,4 +19,3 @@ O script 2-descompactar-configurar-rodar-conteiner.sh será executado automatica
 
 - install
 - build
-- test
