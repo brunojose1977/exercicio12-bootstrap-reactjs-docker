@@ -2,6 +2,10 @@
 node_modules
 build
 
+#Certificados
+server.crt
+server.key
+
 # Arquivos
 TOKEN-GITHUB.txt
 DOCKERHUB-LOGIN
